@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! I'm Azeem Sarwar, a passionate fullstack web developer. I enjoy crafting user-centric web applications that are not only functional but also visually appealing and performant.
+Hi! I'm Azeem Sarwar, a fullstack web developer, crafting functional and visually appealing websites.
 
 ## 🚀💻 Technologies & Tools
 
