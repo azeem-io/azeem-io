@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! I'm Azeem, a fullstack web developer, crafting functional and visually appealing websites.
+I'm Azeem, a fullstack web developer, crafting functional and visually appealing websites.
 
 ## 💻 Technologies & Tools
 
